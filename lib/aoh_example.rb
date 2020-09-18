@@ -20,6 +20,7 @@ def literal_aoh
  [
    { name:  "Don Gately", occupation: "Live-in Staff" },
    { name:  "Joelle van Dyne", occupation: "Radio Personality" },
+   
    ]
 end
 
